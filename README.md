@@ -13,4 +13,4 @@ Project has the following stages:
 
 Project Process flow :-
 
-Creating necessary directories --> Extracting Images with expressions --> Creating Data Set of Faces --> Training Images --> Step 3 : Recognition (Testing) --> Display Detected Images.                 
+Creating necessary directories --> Extracting Images with expressions --> Creating Data Set of Faces --> Training Images --> Recognition (Testing) --> Display Detected Images.                 
