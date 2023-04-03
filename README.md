@@ -1,5 +1,10 @@
-# Python-project
+![image](https://user-images.githubusercontent.com/112973670/229624725-8dfffde1-af69-4d39-881c-98582942d850.png)
+
+# Emotion detection using Machine learning
+
 Task 1
+
+tech used : opencv and other python libraries
 
 Project has the following stages:
 
